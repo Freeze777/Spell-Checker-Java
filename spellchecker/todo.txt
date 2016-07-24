@@ -1,0 +1,4 @@
+spellchecker with NLP features: detect nouns and verbs and add 's' 'ed' 'ing' and add to the word map;
+
+add a autofill feature . Design Change??Trie??
+add a simple UI with real time spell check and autofill using  ajax calls. 
